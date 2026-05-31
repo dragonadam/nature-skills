@@ -186,7 +186,7 @@ In that case:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Yuan1z0825/nature-skills&type=Date&cache_bust=2026-05-31T22)](https://star-history.com/#Yuan1z0825/nature-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Yuan1z0825/nature-skills&type=Date&cache_bust=2026-05-31T23)](https://star-history.com/#Yuan1z0825/nature-skills&Date)
 
 
 ## Skill index
